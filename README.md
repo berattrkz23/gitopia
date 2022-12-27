@@ -189,7 +189,7 @@ gitopiad status 2>&1 | jq .SyncInfo
 * Cüzdan oluşturmadan önce isterseniz altta ki 2 komutu okuyun!!!
 
 ```
-gitopiad keys add Rues
+gitopiad keys add cüzdanismi
 ```
 
 ## NOTU OKU! Cüzdan varsa mnomaniclerle kur:
@@ -198,7 +198,7 @@ gitopiad keys add Rues
  * Ana cüzdan kullanmayın sakın..
 
 ```
-gitopiad keys add Rues --recover
+gitopiad keys add cüzdanismi --recover
 ```
 
 ## Şimdi test tokeni alacağız
