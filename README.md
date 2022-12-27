@@ -1,24 +1,5 @@
-<h1 align="center"> Hatırladınız mı? Evet.. ben.. Gitopia </h1>
 
-
-![image](https://user-images.githubusercontent.com/101149671/201470278-31aa9701-c0be-404c-9b39-a6b481727728.png)
-
-
-<h1 align="center"> Selamlar, Nisan ayında beklediğimiz malum proje başladı.. </h1>
-
-### Notlar:
-
- * Nisan ayında ki olayları unutun, neden? - Testnet 2 gün önce başladı.
- * Ee hocam 2 gün önceyse neden şimdi paylaşıyorsun? Elektiriklerim yoktu ve dün ki yoğunluk + Zeeka'yı biliyorsunuz. ([Exorde](https://github.com/ruesandora/ExordeLabs)'de 3 gün önce başlamıştı)
- * Biz daha önce test tokenleri alıp repolar oluşturmuştuk, o tokenler hala geçerli.
- * Floodu detaylı okumanızı rica ediyorum.
- * Gitopia için nerede sohbet edeceğiz? Sadece bu iki kanalda: [burada](https://t.me/GitopiaTurkish) ve [burada](https://discord.gg/JUtJ6b9F)
- * Gitopia için nerede sohbet edeceğiz? Sadece bu iki kanalda: [burada](https://t.me/GitopiaTurkish) ve [burada](https://discord.gg/JUtJ6b9F)
- * Gitopia için nerede sohbet edeceğiz? Sadece bu iki kanalda: [burada](https://t.me/GitopiaTurkish) ve [burada](https://discord.gg/JUtJ6b9F) 
-
-<h1 align="center"> Hoş geldin sevgili dostum, hoş geldin.. </h1>
-
-![image](https://user-images.githubusercontent.com/101149671/201470246-0f7a1ee8-eda2-47c1-99f3-8708764fba4a.png)
+## Selamlar, Gitopia kuruyoruz.
 
 ## Sistem gereksinimleri:
 
@@ -40,7 +21,7 @@
 ```
 4 CPU
 8 RAM
-200 SSD (contabo ise, 400 yapın diski, bedava şu an)
+200 SSD
 ```
 
 ## Eğer sunucunuz yüksekse ve farklı bir node varsa içinde, yanına gitopia kurmak istiyorsanız şu şekilde başlayın:
